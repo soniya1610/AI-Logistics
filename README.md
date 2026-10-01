@@ -217,7 +217,9 @@ AI-Logistics/
 │   └── mvnw / mvnw.cmd
 │
 └── README.md
-
+```
+ 
+---
 
 ## 🧰 Technology Stack
 
@@ -260,7 +262,7 @@ AI-Logistics/
 
 ### Development Tools
 
-- Spring Tool Suite
+- Eclipse / Spring Tool Suite
 - IntelliJ IDEA
 - VS Code
 - Maven
