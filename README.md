@@ -217,11 +217,7 @@ AI-Logistics/
 │   └── mvnw / mvnw.cmd
 │
 └── README.md
-```
 
-> **Note:** The project package name has been updated from `com.incapp` to `com.soniya`.
-
----
 
 ## 🧰 Technology Stack
 
@@ -264,7 +260,7 @@ AI-Logistics/
 
 ### Development Tools
 
-- Eclipse / Spring Tool Suite
+- Spring Tool Suite
 - IntelliJ IDEA
 - VS Code
 - Maven
